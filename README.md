@@ -2,7 +2,6 @@
 
 # Swift Programming Language
 
-
 | | **Architecture** | **main** | **Package** |
 |---|:---:|:---:|:---:|
 | **macOS**        | x86_64 |[![Build Status](https://ci.swift.org/job/oss-swift-incremental-RA-macos/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-incremental-RA-macos)|[![Build Status](https://ci.swift.org/job/oss-swift-package-macos/lastCompletedBuild/badge/icon)](https://ci.swift.org/job/oss-swift-package-macos)|
@@ -40,11 +39,12 @@ modules, eliminating the need for headers and the code duplication they entail.
 
 To learn more about the programming language, visit [swift.org](https://swift.org/documentation/).
 
-- [Contributing to Swift](#contributing-to-swift)
-- [Getting Started](#getting-started)
-  - [Swift Toolchains](#swift-toolchains)
-  - [Build Failures](#build-failures)
-- [Learning More](#learning-more)
+### Table Of Contents
+1. [Welcome to Swift](https://github.com/apple/swift#welcome-to-swift)
+2. [Contributing to Swift](https://github.com/apple/swift#contributing-to-swift)
+3. [Getting Started](https://github.com/apple/swift#getting-started)
+4. [Build Failures](https://github.com/apple/swift#build-failures)
+5. [Learning More](https://github.com/apple/swift#learning-more)
 
 ## Contributing to Swift
 
